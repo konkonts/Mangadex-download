@@ -74,7 +74,7 @@ for chapter in chapters:
         with open(f'{chapter_folder}/page{i+1}.jpg', 'wb') as f:
             f.write(img.content)
 
-print('Download selesai')
+print('Download done!')
 print('File save in: ', os.path.abspath(title))
 
 
