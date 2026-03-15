@@ -76,12 +76,3 @@ for chapter in chapters:
 
 print('Download done!')
 print('File save in: ', os.path.abspath(title))
-
-
-
-
-
-
-
-
-
